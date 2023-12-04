@@ -42,7 +42,6 @@ body{
     font-weight: 900;
     text-transform: uppercase;
     position: relative;
-    font-family: Montserrat;
 }
 .logo > div > h4::before {
     content: "";
@@ -60,7 +59,6 @@ body{
     padding-left: 10px;
     margin-left: 10px;
     font-weight: 400;
-    font-family:Montserrat;
     margin-top: 5px;
 }
 .logo > img{
@@ -116,7 +114,6 @@ body{
    
 }
 .panel  h4{
-    font-family: Montserrat;
     font-size: 18px;
     font-weight: 600;
     line-height: 35px;
@@ -146,7 +143,6 @@ body{
     margin-right: 20px;
 }
 .searchInfo > span > p{
-    font-family: Montserrat;
     font-size: 14px;
     font-weight: 100;
     line-height: 25px;
@@ -200,6 +196,37 @@ body{
     border: 0;
     color: #FFF;
 }
+
+.joinUs{
+    width: 600px;
+    margin-bottom: 100px;
+}
+.joinUs > thead> tr > th{
+    height: 50px;
+    background-color: #720418 !important;
+    color :#fff;
+    text-align: center;
+    padding-left: 30px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 115%; 
+    letter-spacing: 0.14px;
+ 
+}
+
+.joinUs > tbody> tr > td{
+    height: 40px;
+    text-align: center;
+    padding-left: 30px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 115%; 
+    letter-spacing: 0.14px;
+    background-color: #FFF;
+}
+
 
 
 
