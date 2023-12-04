@@ -1,7 +1,4 @@
-@font-face {
-    font-family:Montserrat;
-    src: url(../../../Font/Montserrat-VariableFont_wght.ttf);
-}
+
 .adminLoginPage{
     background-color: #720418 !important;
     height: 100vh;
